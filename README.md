@@ -22,7 +22,7 @@ Datasets to be used:
    i.e) Trend in women of being more literate  
    >  
    
-### Prerequistes
+### Prerequisites
 - R
 - RStudio
 
