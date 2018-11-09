@@ -33,5 +33,5 @@ git clone https://github.com/msouppe/Educational-Gender-Gap.git
 ```   
   
 - Go into the data directory and unzip *edstats-csv-zip-32-mb-.zip*  
-- Open `script.R` and update the filepath to location of *edstats-csv-zip-32-mb-.zip*.
+- Open `script.R` and update the `filepath` to location of *edstats-csv-zip-32-mb-.zip*
 - Run `script.R`
