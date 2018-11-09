@@ -21,3 +21,17 @@ Datasets to be used:
 3) Predict - age, gender, income, teacher pay  
    i.e) Trend in women of being more literate  
    >  
+   
+### Prerequistes
+- R
+- RStudio
+
+### Installation
+- Clone the repository:  
+```   
+git clone https://github.com/msouppe/Educational-Gender-Gap.git
+```   
+  
+- Go into the data directory and unzip *edstats-csv-zip-32-mb-.zip*  
+- Open `script.R` and update the filepath to location of *edstats-csv-zip-32-mb-.zip*.
+- Run `script.R`
